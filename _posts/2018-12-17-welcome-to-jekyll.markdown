@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Calvin!"
+title:  "Welcome to Martin Studio!"
 date:   2018-12-17 11:09:53 -0800
 categories: jekyll update
 ---
 
-This is Calvin, the Steem Documentation Repository.
+This is Martin Studio.
 
 ---
 
